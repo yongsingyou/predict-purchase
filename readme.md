@@ -1,5 +1,4 @@
 # predict purchase through user activities
-# Predicting purchase through user activities
 description: 
 - The  data is pulled from raw logs of a marketing database. It has three columns that record user activity over time:
     user_id,activity_date and activity_type.
